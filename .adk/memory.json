@@ -1,0 +1,43 @@
+{
+  "episodic": {
+    "shopper-42": [
+      {
+        "created_at": "2026-10-02T10:53:28+00:00",
+        "summary": "Checked order O-7421: status in_transit, carrier BlueDart, ETA 2 days.",
+        "tags": [
+          "order",
+          "O-7421",
+          "in_transit"
+        ]
+      },
+      {
+        "created_at": "2026-10-02T10:56:18+00:00",
+        "summary": "Checked order O-7421: status in_transit, carrier BlueDart, ETA 2 days.",
+        "tags": [
+          "order",
+          "O-7421",
+          "in_transit"
+        ]
+      },
+      {
+        "created_at": "2026-10-02T11:04:20+00:00",
+        "summary": "Checked order O-7421: status in_transit, carrier BlueDart, ETA 2 days.",
+        "tags": [
+          "order",
+          "O-7421",
+          "in_transit"
+        ]
+      },
+      {
+        "created_at": "2026-10-02T11:06:27+00:00",
+        "summary": "Checked order O-7421: status in_transit, carrier BlueDart, ETA 2 days.",
+        "tags": [
+          "order",
+          "O-7421",
+          "tracking"
+        ]
+      }
+    ]
+  },
+  "semantic": {}
+}
